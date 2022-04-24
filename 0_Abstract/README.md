@@ -9,3 +9,4 @@ approaching vehicle using the Ultrasonic sensors and then switching ON a block o
 of the vehicle with high intensity. As the vehicle passes by, the trailing lights turn dim automatically.
 Thus, we save a lot of energy. So, when there are no vehicles on the highway, then all the lights will
 remain off. It is implemented using Microcontroller. 
+![street light](https://user-images.githubusercontent.com/102901884/164971792-31bc3b7d-eeeb-445d-ab07-4751fde6cfff.jpg)
